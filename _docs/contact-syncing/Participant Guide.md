@@ -4,7 +4,7 @@ category: Participant Guide
 order: 1
 ---
 
-> What is data curation?
+> **What is data curation?**
 
 Data curation aids in preserving the value of research data for the long-term by optimizing data for discoverability, interoperability, and reusability (Munoz & Renear 2011; Johnston et al., 2018; Thomer et al, 2022). For more specifics on data curation in practice see the definition below provided by Zorich 1995:
 
