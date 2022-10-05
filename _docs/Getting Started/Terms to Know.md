@@ -1,5 +1,5 @@
 ---
-title: Data Curation Primer
+title: Terms to Know
 category: Getting Started
 order: 2
 ---
