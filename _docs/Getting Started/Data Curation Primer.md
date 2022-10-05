@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-category: Data Curation Primer
+title: Data Curation Primer
+category: Getting Started
 order: 1
 ---
 
