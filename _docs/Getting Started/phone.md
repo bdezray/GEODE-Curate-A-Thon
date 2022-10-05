@@ -4,53 +4,8 @@ category: Getting Started
 order: 4
 ---
 
-<details><summary>Code example</summary><p>
-...
+<details><summary>Metadata</summary><p>
+ Information about a data set that is structured (often in machine-readable format) for purposes of search and retrieval. Metadata elements may include basic information (e.g., title, author, date created, etc.) and/or specific elements inherent to datasets (e.g., spatial coverage, time periods) (Data Curation Network Data Curation Glossary).
 </p></details>
 
-
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class ="content">
-  <p>Lorem ipsum...</p>
-</div>
-
-/* Style the button that is used to open and close the collapsible content */
-.collapsible {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-/* Style the collapsible content. Note: hidden by default */
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
+>**Metadata:**  Information about a data set that is structured (often in machine-readable format) for purposes of search and retrieval. Metadata elements may include basic information (e.g., title, author, date created, etc.) and/or specific elements inherent to datasets (e.g., spatial coverage, time periods) (Data Curation Network Data Curation Glossary).
