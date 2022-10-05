@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-category: Participant Guide
+category: Data Curation Primer
 order: 1
 ---
 
@@ -72,34 +72,30 @@ In particular, data curation of genetic and genomic sequence data is valuable be
 <br>
 
 <button class="collapsible">Metadata</button>
-
 <div class="content">
-  <p><br> Information about a data set that is structured (often in machine-readable format) for purposes of search and retrieval. Metadata elements may include basic information (e.g., title, author, date created, etc.) and/or specific elements inherent to datasets (e.g., spatial coverage, time periods) (Data Curation Network Data Curation Glossary).</p>
+  <p><br>Information about a data set that is structured (often in machine-readable format) for purposes of search and retrieval. Metadata elements may include basic information (e.g., title, author, date created, etc.) and/or specific elements inherent to datasets (e.g., spatial coverage, time periods) (Data Curation Network Data Curation Glossary).</p>
 </div>
 <button class="collapsible">International Nucleotide Sequence Database Collaboration (INSDC)</button>
 <div class="content">
   <p><br>Consists of a joint effort to collect and disseminate databases containing DNA and RNA sequences. It involves a collaboration between the following databases: [DNA Data Bank of Japan (DDBJ)](https://www.ddbj.nig.ac.jp/index-e.html), [European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home), and [GenBank (NCBI)](https://www.ncbi.nlm.nih.gov/genbank/). New and updated data on nucleotide sequences contributed by research teams to each of the three databases are synchronized on a daily basis (https://en.wikipedia.org/wiki/International_Nucleotide_Sequence_Database_Collaboration).</p>
 </div>
-<button class="collapsible">Dissemination Information Package (DIP)</button>
+<button class="collapsible">Nucleotide</button>
 <div class="content">
-  <p><br>A package created from the Archival Information Package (AIP) to distribute digital content to users.</p>
+  <p><br>The basic building block of nucleic acids (RNA and DNA) (https://www.genome.gov/genetics-glossary/Nucleotide).</p>
 </div>
-<button class="collapsible">File inventory </button>
+<button class="collapsible">Genetic and Genomic Sequence Data</button>
 <div class="content">
-  <p><br>The list of files in the submission information package (SIP).</p>
+  <p><br>The sequence of nucleotides which tell scientists the kind of genetic information that is carried by a particular segment of DNA or RNA. For example scientists can use sequence information to determine which stretches of DNA contain genes and which stretches carry regulatory instructions, turning genes on or off (https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet).</p>
 </div>
-<button class="collapsible">File organization</button>
+<button class="collapsible">Digital Object Identifier (DOI)</button>
 <div class="content">
-  <p><br>The act of structuring files in a hierarchical way to ensure findability.</p>
+  <p><br>A string of numbers, letters, and symbols used to uniquely identify an article or document and to provide it with a permanent web address (URL) (https://ask.library.uic.edu/faq/345899).</p>
 </div>
-<button class="collapsible">README file</button>
+<button class="collapsible">Online Repository</button>
 <div class="content">
-  <p><br>A file that is usually a text file (.txt) or a rich text format file (.rtf) or markdown (.md) that gives information about the creators of the data, where the data was created, methods used to produce the data, sharing privileges, and so on.</p>
+  <p><br>An archive or collection of documents such as journal articles, datasets, presentations, etc. An online repository can be for general use, institutional use, and/or discipline-specific use. Examples include: Dryad, Zenodo, ScholarSphere.</p>
 </div>
-<button class="collapsible">Metadata</button>
-<div class="content">
-  <p><br>Data about data. Metadata can include the author, file size, the date the document was created and keywords to describe the document.</p>
-</div>
+
 
 <script>
 var coll = document.getElementsByClassName("collapsible");

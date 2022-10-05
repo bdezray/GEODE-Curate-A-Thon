@@ -1,7 +1,7 @@
 ---
 title: Phone
-category: participant-guide
-order: 2
+category: Getting Started
+order: 3
 ---
 
 > **What is data curation?**
