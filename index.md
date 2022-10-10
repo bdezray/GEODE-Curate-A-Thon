@@ -2,37 +2,18 @@
 title: Welcome
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+Welcome to the GEODE: A Genomics Observatories Diversity Explorer Curate-A-Thon! The purpose of the GEODE Curate-A-Thon is to enhance the metadata associated with sequence data to improve discoverability, interoperability, and reusability. Your work during the Curate-A-Thon will help us achieve this goal!
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+Let's get started!
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+1. **Read the Getting Started Guide** to orient yourself to the project, data curation, and the work you will do to discover and connect sequence data records to associated metadata.
+2. **Curate assigned BioProject records** Once you have been assigned a BioProject to curate, you will be able to navigate to the pre-filled Google Form for that specific BioProject to document your curation efforts. For each assigned BioProject, determine relevance, discover and link associated published papers, and locate missing spatio-temporal metadata. Learn more by reading our Curate-A-Thon guide.
 
-### Getting Started
+Have a question or comment about the Curate-A-Thon process or data curation in general? You have options:
+- Connect with your Curate-A-Thon host live during the Zoom session.
+- Send us a message via xxxx.
 
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+#Ready to start?
+<div class="flex-contianer">
+     <a class="button button-primary" href="/CURATED/modules/module-t"> Let's Go! ></a>
+</div>
