@@ -12,9 +12,8 @@ We recommend that if you have a Google account, you sign into that before comple
 
 #### Explanation of Google form fields, including definitions and instructions.
 
-Note: Rows in gray should **NOT** be edited; Rows in white are for you to edit with your curation discoveries.
+Note: Rows with an \* should **NOT** be edited.
 
 | Field | Definition | Instructions |
 | -- | ---- | -- |
-| **project_index** | Associated Curate-A-Thon ID number that begins with F. | *Do not edit this field.* |
-    
+| **project_index \* ** | Associated Curate-A-Thon ID number that begins with F. | *Do not edit this field.* |
