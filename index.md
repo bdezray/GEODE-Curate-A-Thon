@@ -15,7 +15,16 @@ Have a question or comment about the Curate-A-Thon process or data curation in g
 - Connect with your Curate-A-Thon host live during the Zoom session.
 - Send us a message via xxxx.
 
-# Ready to start?
+#### Ready to start?
+
+<div align = center>
+
+<br>
+<br>
+
+|[Click here](https://github.com/)|
+|---|
+
 
 [Let's Go!](http://www.google.com){: .btn}
 
