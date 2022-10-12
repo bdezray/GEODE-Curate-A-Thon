@@ -1,6 +1,6 @@
 ---
 title: BioProjects Google Form
-category: Curate-A-Thon Protocol
+category: Protocol
 order: 2
 ---
 
@@ -14,22 +14,7 @@ We recommend that if you have a Google account, you sign into that before comple
 
 Note: Rows in gray should **NOT** be edited; Rows in white are for you to edit with your curation discoveries.
 
-<style>
-    .heatMap {
-      width: 70%;
-        text-align: left;
-    }
-    .heatMap th {
-      background: black;
-      word-wrap: break-word;
-      text-align: center;
-    }
-    .heatMap tr:nth-child(1) {background:grey}
-  
-    </style>
-
-    <div class="heatMap">
-
 | Field | Definition | Instructions |
-| -- | -- | -- |
-| **project_index** | Associated Curate-A-Thon ID number that begins with F. | Do not edit this field. |    
+| -- | ---- | -- |
+| **project_index** | Associated Curate-A-Thon ID number that begins with F. | *Do not edit this field.* |
+    

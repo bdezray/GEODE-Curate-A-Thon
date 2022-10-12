@@ -1,6 +1,6 @@
 ---
 title: Overview
-category: Curate-A-Thon Protocol
+category: Protocol
 order: 1
 ---
 
@@ -10,4 +10,4 @@ INSDC houses lots of genomic/genetic sequences from a breadth of sample types su
 
 > **Instructions:**
 
-Please read through the instructions before you begin your first data curation review. The work you will be doing during this Curate-A-Thon is important as it will have a direct impact on future use of these genomic/genetic sequence data because reuse depends on **correct, well documented** information being associated with each record. Therefore, we have provided you with several resources throughout this guide that will assist you in the process (e.g., tutorial videos, guidance, etc.), BUT please do not hesitate to reach out to your Curate-A-Thon hosts, with any questions throughout the process. 
+Please read through the instructions before you begin your first data curation review. The work you will be doing during this Curate-A-Thon is important as it will have a direct impact on future use of these genomic/genetic sequence data because reuse depends on **correct, well documented** information being associated with each record. Therefore, we have provided you with several resources throughout this guide that will assist you in the process (e.g., tutorial videos, guidance, etc.), BUT please do not hesitate to reach out to your Curate-A-Thon hosts, with any questions throughout the process.
