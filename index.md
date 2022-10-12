@@ -17,18 +17,7 @@ Have a question or comment about the Curate-A-Thon process or data curation in g
 
 #### Ready to start?
 
-<div align = center>
 
-<br>
-<br>
 
 |[Click here](https://github.com/)|
 |---|
-
-
-[Let's Go!](http://www.google.com){: .btn}
-
-
-<div class="flex-contianer">
-     <a class="button button-primary" href="/CURATED/modules/module-t"> Let's Go! ></a>
-</div>
