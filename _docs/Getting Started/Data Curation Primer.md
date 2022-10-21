@@ -25,4 +25,4 @@ Data curation is important for making sure that datasets are FAIR:findable, acce
 
 In particular, data curation of genetic and genomic sequence data is valuable because these data have immense reuse value for measuring genetic diversity. However, without information about the spatial and temporal context, the metadata, of the sample organism, the value of the genomic sequence is limited (Toczydlowski et al. 2021).
 
-[Next](https://github.com/bdezray/Geode-Curate-A-Thon/blob/main/_docs/Getting%20Started/Terms%20to%20Know.md){: .btn}
+[Next](https://bdezray.github.io/Geode-Curate-A-Thon/Getting%20Started/Terms%20to%20Know/){: .btn}

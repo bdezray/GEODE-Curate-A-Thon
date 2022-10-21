@@ -13,4 +13,4 @@ INSDC houses lots of genomic/genetic sequences from a breadth of sample types su
 Please read through the instructions before you begin your first data curation review. The work you will be doing during this Curate-A-Thon is important as it will have a direct impact on future use of these genomic/genetic sequence data because reuse depends on **correct, well documented** information being associated with each record. Therefore, we have provided you with several resources throughout this guide that will assist you in the process (e.g., tutorial videos, guidance, etc.), BUT please do not hesitate to reach out to your Curate-A-Thon hosts, with any questions throughout the process.
 
 
-[Next](https://github.com/bdezray/Geode-Curate-A-Thon/blob/main/_docs/Protocol/BioProjects%20Google%20Form.md){: .btn}
+[Next](https://bdezray.github.io/Geode-Curate-A-Thon/Protocol/BioProjects%20Google%20Form/){: .btn}
