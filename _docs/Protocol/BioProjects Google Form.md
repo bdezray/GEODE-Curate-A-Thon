@@ -26,4 +26,4 @@ We recommend that if you have a Google account, you sign into that before comple
 | **registration_date_bioprj** | The date that the BioProject was registered. | *Do not edit this field.* |
 | **contact_name_sra_all** | The contact name of the individual or institution who submitted the data to SRA. | *Do not edit this field.* |
 | **Metadata Curator** | Name of the individual who curates the BioProject. | Type your name (First Name, Last Name) in the Metadata Curator field to acknowledge your contribution. |
-| **Paper_Availability** | Indication of whether an associated published paper can be linked to the BioProject. | Indicate if an associated published paper is available for the BioProject: - if a published paper is available, mark TRUE. - if a published paper is *not* available, mark FALSE |
+| **Paper_Availability** | Indication of whether an associated published paper can be linked to the BioProject. | Indicate if an associated published paper is available for the BioProject: <ul><li>if a published paper is available, mark TRUE.</li><li>if a published paper is *not* available, mark FALSE</li></ul>|
