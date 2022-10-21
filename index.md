@@ -11,7 +11,7 @@ Let's get started!
 3. **Curate assigned BioProject records** Once you have read the getting started guide, reviewed the Curate-A-Thon protocol, and been assigned some BioProjects to curate, you will be able to navigate to the pre-filled Google Form for that specific BioProject to document your curation efforts. For each assigned BioProject, you will determine relevance, discover and link associated published papers, and locate missing spatio-temporal metadata. You are welcome to curate as many or as few BioProjects as you would like, we just ask that you complete the one you start before moving to another.
 4. **Submit the BioProject Google Form** After completing your curation efforts for a BioProject and filling in the Google Form, do not forget to submit the BioProject Google Form to document your discoveries.
 
-Have a question or comment about the Curate-A-Thon process or data curation in general? You have options:
+Have a question or comment about the Curate-A-Thon process or data curation in general? You have options: 
 - Connect with your Curate-A-Thon host live during the Zoom session.
 - Send us a message via xxxx.
 
