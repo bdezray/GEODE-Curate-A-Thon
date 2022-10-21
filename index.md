@@ -17,4 +17,4 @@ Have a question or comment about the Curate-A-Thon process or data curation in g
 
 #### Ready to start?
 
-[Let's Go!](http://www.google.com){: .btn}
+[Let's Go!](https://bdezray.github.io/Geode-Curate-A-Thon/Getting%20Started/Data%20Curation%20Primer/){: .btn}
