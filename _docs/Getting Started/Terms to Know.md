@@ -25,4 +25,4 @@ A string of numbers, letters, and symbols used to uniquely identify an article o
 > **Online Repository:**
 An archive or collection of documents such as journal articles, datasets, presentations, etc. An online repository can be for general use, institutional use, and/or discipline specific use. Some examples include [Dyrad](https://datadryad.org/stash), [Zenodo](https://zenodo.org), [ScholarSphere](https://scholarsphere.psu.edu).
 
-[Next](_docs/Getting Started/Curate-A-Thon Data Overview.md){: .btn}
+[Next](https://github.com/bdezray/Geode-Curate-A-Thon/blob/main/_docs/Getting%20Started/Curate-A-Thon%20Data%20Overview.md){: .btn}
