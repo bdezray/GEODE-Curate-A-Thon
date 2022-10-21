@@ -17,7 +17,4 @@ Have a question or comment about the Curate-A-Thon process or data curation in g
 
 #### Ready to start?
 
-
-
-|[Click here](https://github.com/)|
-|---|
+[Let's Go!](http://www.google.com){: .btn}

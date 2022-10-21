@@ -10,7 +10,7 @@ Today, we will be working with the metadata associated with genetic and genomic 
 
 To best be prepared to work with this data, it is important to understand a few elements regarding how the data are structured and accession numbers assigned (Figure 1).
 
-![Figure 1: Overview f the distinction between BioProjects and BioSamples](https://github.com/bdezray/Geode-Curate-A-Thon/blob/83ab96845fa49e400e402ff97ec557f7d12f549c/anatomy_of_BioProject_BioSample_submission.png)
+![Figure 1: Overview f the distinction between BioProjects and BioSamples](anatomy_of_BioProject_BioSample_submission.png)
 
 The first level of structure is the BioProject.
 
