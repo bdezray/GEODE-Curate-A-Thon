@@ -12,8 +12,20 @@ We recommend that if you have a Google account, you sign into that before comple
 
 #### Explanation of Google form fields, including definitions and instructions.
 
-Note: Rows with an \* should **NOT** be edited.
 
-| Field | Definition | Instructions |
+| **Field** | **Definition** | **Instructions** |
 | -- | ---- | -- |
-| **project_index \* ** | Associated Curate-A-Thon ID number that begins with F. | *Do not edit this field.* |
+| **project_index** | Associated Curate-A-Thon ID number that begins with F. | *Do not edit this field.* |
+| **project_acc_bioprj** | The INSDC BioProject ID that begins with PRJ. | *Do not edit this field.* |
+| **BioSamples** | The number of samples (individuals) included in the BioProject. | *Do not edit this field.* |
+| **Runs** | The number of data files that are associated with the BioSamples (one BioSample could have more than one run).| *Do not edit this field.* |
+| **N_Species** | The number of unique species included in the BioProject. | *Do not edit this field.* |
+| **Species_all** | A list of the names of the species included in the BioProject. | *Do not edit this field.* |
+| **project_title_bioprj** | The title of the BioProject. | *Do not edit this field.* |
+| **study_acc_sra** | The SRA accession number. | *Do not edit this field.* |
+| **registration_date_bioprj** | The date that the BioProject was registered. | *Do not edit this field.* |
+| **contact_name_sra_all** | The contact name of the individual or institution who submitted the data to SRA. | *Do not edit this field.* |
+| **Metadata Curator** | Name of the individual who curates the BioProject. | Type your name (First Name, Last Name) in the Metadata Curator field to acknowledge your contribution. |
+| **Paper_Availability** | Indication of whether an associated published paper can be linked to the BioProject. | Indicate if an associated published paper is available for the BioProject:
+- if a published paper is available, mark TRUE.
+- if a published paper is *not* available, mark FALSE |

@@ -20,3 +20,5 @@ The first level of structure is the BioProject.
 This is followed by the next level of structure, the BioSample.
   **BioSample:** includes descriptive information about the physical biological specimen from which the experimental data are derived. Some examples include a BioSample from a cell line, tissue biopsy, or an environmental isolate.
     **BioSample Accession Number Format: SAMNxxxxxxxx (e.g., SAMN11091118)**
+
+[Next](_docs/Protocol/Curate-A-Thon_Overview.md){: .btn}
