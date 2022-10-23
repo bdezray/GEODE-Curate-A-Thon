@@ -8,7 +8,7 @@ google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-23 at 3.39.53 PM.png
 description: Product documentation template for Jekyll.
 author:
   name:
