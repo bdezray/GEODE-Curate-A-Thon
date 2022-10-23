@@ -12,6 +12,11 @@ We recommend that if you have a Google account, you sign into that before comple
 
 #### Explanation of Google form fields, including definitions and instructions.
 
+![](https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-23 at 2.54.33 PM.png)
+![](https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-23 at 2.54.56 PM.png)
+![](https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-23 at 2.55.12 PM.png)
+![](https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-23 at 2.55.33 PM.png)
+
 
 | ####Field#### | ####Definition#### | ####Instructions#### |
 | -- | ---- | -- |
@@ -27,3 +32,6 @@ We recommend that if you have a Google account, you sign into that before comple
 | **contact_name_sra_all** | The contact name of the individual or institution who submitted the data to SRA. | *Do not edit this field.* |
 | **Metadata Curator** | Name of the individual who curates the BioProject. | Type your name (First Name, Last Name) in the Metadata Curator field to acknowledge your contribution. |
 | **Paper_Availability** | Indication of whether an associated published paper can be linked to the BioProject. | Indicate if an associated published paper is available for the BioProject: (A) if a published paper is available, mark TRUE. (B) if a published paper is *not* available, mark FALSE|
+| **Paper_DOI** | DOI of the associated published paper.| If an associatd published paper is available, copy and paste the paper's DOI into this field using the format: https://doi.org/10.xxxxx/xx. If multiple DOIs exist, separate DOIs by a pipe (|).|
+| **Relevance** | In the GEODE Curate-A-Thon, a Bioproject is considered: **Relevant** if samples come from wild populations, including introduced and invasive species and **NOT Relevant** if samples come from domesticated species, lab or brood stock, human pathogens, and/or quantitative genetic studies. | Indicate if a BioProject is relevant or not: (A) If the BioProject is relevant, mark TRUE. (B) If the BioProject is *not* relevant, mark FALSE. |
+| **Metadata Curator** | Name of the individual who curates the BioProject. | Type your name (First Name, Last Name) in the Metadata Curator field to acknowledge your contribution. |
