@@ -4,7 +4,7 @@ category: Protocol
 order: 5
 ---
 
-#Relevance
+### Relevance
 
 **Q: How should we handle plant grafts and clonal populations that were taken from the wild?**
 
@@ -18,7 +18,7 @@ Prioritize projects for which either at least 50% of BioSamples are from natural
 
  Read in the materials and methods to see if you can learn about how the authors established provenance and sampling locality. Try to understand what geographic locality and associated uncertainty is ascribed by the authors when making their inference.
 
- #GEODE
+ ### GEODE
 
 **Q: How do I find out more about these metadata initiatives and contribute?**
 
