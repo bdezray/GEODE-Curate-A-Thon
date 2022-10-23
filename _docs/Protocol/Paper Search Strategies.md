@@ -8,7 +8,7 @@ Review the sections below to learn about search strategies that may be useful to
 
 Some papers will be behind a paywall (meaning you have to pay to access it). Because of this, we highly recommend that you perform this search from a network on your campus (or using a campus VPN), as you will be able to benefit from your campus library subscriptions to get past journal paywalls. Additionally, we encourage you to download the [Open Access Button](https://openaccessbutton.org) and install it in your favorite browser. The Open Access Button allows you to search thousands of sources to link you to free, legal, full text articles.
 
-# Searching by BioProject title
+### Searching by BioProject title
 [Google Scholar](https://scholar.google.com/) is a great place to begin your paper search. Search the associated title of the BioProject (listed in the **project_title_bioprj** in the Google form) and see if you can find anything. Sample instructions are below:
 
 1.Copy/paste the title of the BioProject (listed in the **project_title_bioprj** field in the Google form) into Google Scholar and search. You do not need to add quotation marks around the title.
@@ -38,7 +38,7 @@ Some papers will be behind a paywall (meaning you have to pay to access it). Bec
 7.You will skim through the paper to answer the questions on the Google form. During your initial review of the paper, it will be important to determine whether this paper utilized samples that were collected in an earlier study for a different purpose and now sequenced, as the associated spatio-temporal metadata may be in a paper further back. In this case, you will want to link to both papers. If after skimming through the paper for relevant information (you do not need to thoroughly read the entire paper) you have questions and/or are not sure it’s the correct paper, please reach out to your Curate-A-Thon hosts for assistance.
 
 
-# Searching by BioProject ID
+### Searching by BioProject ID
 
 Search [Google Scholar](https://scholar.google.com/) for the associated BioProject ID (listed in the title of the BioProject (listed in the **project_acc_bioprj** in the Google form) and see if you can find anything. Sample instructions are below:
 
@@ -60,5 +60,5 @@ Search [Google Scholar](https://scholar.google.com/) for the associated BioProje
 
 5.After pasting the DOI into the Google form, follow steps 5 through 7 found in the Searching by BioProject title section above.
 
-# Still can't find the paper?
+### Still can't find the paper?
 If you can’t find anything using the title or BioProject accession number, try using author last names and species binomials (e.g. Puma concolor) and study regions (e.g. Northern California).
