@@ -38,7 +38,7 @@ Some papers will be behind a paywall (meaning you have to pay to access it). Bec
 7.You will skim through the paper to answer the questions on the Google form. During your initial review of the paper, it will be important to determine whether this paper utilized samples that were collected in an earlier study for a different purpose and now sequenced, as the associated spatio-temporal metadata may be in a paper further back. In this case, you will want to link to both papers. If after skimming through the paper for relevant information (you do not need to thoroughly read the entire paper) you have questions and/or are not sure it’s the correct paper, please reach out to your Curate-A-Thon hosts for assistance.
 
 
-#Searching by BioProject ID
+# Searching by BioProject ID
 
 Search [Google Scholar](https://scholar.google.com/) for the associated BioProject ID (listed in the title of the BioProject (listed in the **project_acc_bioprj** in the Google form) and see if you can find anything. Sample instructions are below:
 
