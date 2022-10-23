@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions (FAQ)
-category: _docs
-order: 3
+category: Protocol
+order: 5
 ---
 
 #Relevance
