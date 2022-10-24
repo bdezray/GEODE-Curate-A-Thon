@@ -1,7 +1,7 @@
 ---
 title: BioProjects Google Form
 category: Protocol
-order: 2
+order: 4
 ---
 
 Throughout the Curate-A-Thon you will be using Google forms to document your curation process and limit any errors and inconsistencies within the BioProjects. You will notice that some fields have already been filled in; these should match the current BioProject that you are working on. If they do not, please locate the correct form for the BioProject.

@@ -1,7 +1,7 @@
 ---
 title: Paper Search Strategies
 category: Protocol
-order: 4
+order: 2
 ---
 
 Review the sections below to learn about search strategies that may be useful to you to locate associated paper/s and/or available metadata. If you have additional search strategies or processes that worked well for you, consider sharing it with other curators and/or your Curate-A-Thon host(s).
