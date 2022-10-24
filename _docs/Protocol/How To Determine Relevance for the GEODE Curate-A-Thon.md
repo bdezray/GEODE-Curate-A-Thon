@@ -12,4 +12,7 @@ Relevance for the Curate-A-Thon will be based on what BioProjects have sample in
 
 To determine relevance, you will first need to locate the associated published paper to find more information about the BioProject.
 - If a BioProject is **relevant**, you will complete the associated Google Form and include the paper’s Digital Object Identifier (DOI) in the appropriate field. For relevant BioProjects, you will also need to provide information about any metadata that you are able to locate (e.g. the spatial and/or temporal metadata). More information about the Google Form is outlined below.
-- If a BioProject is **not relevant**, you will complete and submit the associated Google Form and move onto the next BioProject. 
+- If a BioProject is **not relevant**, you will complete and submit the associated Google Form and move onto the next BioProject.
+
+
+[Next](https://bdezray.github.io/Geode-Curate-A-Thon/Protocol/BioProjects%20Google%20Form/){: .btn}

@@ -62,3 +62,5 @@ Search [Google Scholar](https://scholar.google.com/) for the associated BioProje
 
 ### Still can't find the paper?
 If you can’t find anything using the title or BioProject accession number, try using author last names and species binomials (e.g. Puma concolor) and study regions (e.g. Northern California).
+
+[Next](https://bdezray.github.io/Geode-Curate-A-Thon/Protocol/How%20To%20Determine%20Relevance%20for%20the%20GEODE%20Curate-A-Thon/){: .btn}
