@@ -4,6 +4,8 @@ category: Protocol
 order: 1
 ---
 
+{% include youtube.html id="JYpzhCVBIDI" %}
+
 > **Problem Statement:**
 
 INSDC houses lots of genomic/genetic sequences from a breadth of sample types such as space samples, covid samples, medical human samples, barnacles, etc. to name a few. Currently, there is not an easy way to sort/filter sequence data in INSDC to find datasets relevant to biodiversity conservation and monitoring which focuses on wild populations. The information necessary to do this and to reuse the dataset itself in the future is usually in associated papers. Therefore, we need you to determine the relevance of BioProjects for this Curate-A-Thon as well as discover missing metadata by locating associated, published scientific papers and metadata that correspond to each BioProject.
