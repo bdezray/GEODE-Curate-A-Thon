@@ -12,7 +12,7 @@ We recommend that if you have a Google account, you sign into that before comple
 
 #### Tutorial for BioProject Google Form
 <video width="1280" height="720" controls autoplay muted loop playsinline>
-  <source type="video/mp4" src="https://github.com/bdezray/Geode-Curate-A-Thon/blob/main/videos/GEODE_Curate-A-Thon%20_BioProject_Google_Form.mp4">
+  <source type="video/mp4" src="https://github.com/bdezray/Geode-Curate-A-Thon/videos/GEODE_Curate-A-Thon%20_BioProject_Google_Form.mp4">
 </video>
 
 #### Explanation of Google form fields, including definitions and instructions.
