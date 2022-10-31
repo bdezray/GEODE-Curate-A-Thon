@@ -11,7 +11,8 @@ The Google form is responsive to your selections, so you will see different sect
 We recommend that if you have a Google account, you sign into that before completing your Google form(s) as it will allow you to save your progress.
 
 #### Tutorial for BioProject Google Form
-{% include youtube.html id="JYpzhCVBIDI" %}
+<iframe id="kmsembed-1_7ifvwfrr" width="560" height="590" src="https://psu.mediaspace.kaltura.com/embed/secure/iframe/entryId/1_7ifvwfrr/uiConfId/41416911/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay"</iframe>
+
 
 #### Explanation of Google form fields, including definitions and instructions.
 
