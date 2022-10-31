@@ -11,19 +11,9 @@ The Google form is responsive to your selections, so you will see different sect
 We recommend that if you have a Google account, you sign into that before completing your Google form(s) as it will allow you to save your progress.
 
 #### Tutorial for BioProject Google Form
-<video width="320" height="240" controls>
+<video width="1280" height="720" controls autoplay muted loop playsinline>
   <source type="video/mp4" src="https://github.com/bdezray/Geode-Curate-A-Thon/blob/main/videos/GEODE_Curate-A-Thon%20_BioProject_Google_Form.mp4">
 </video>
-
-<div class="embed-container">
-  <iframe
-      src="https://psu.mediaspace.kaltura.com/media/GEODE+Curate-A-ThonA+BioProject+Google+Form/1_7ifvwfrr{{ include.id }}"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
 
 #### Explanation of Google form fields, including definitions and instructions.
 
