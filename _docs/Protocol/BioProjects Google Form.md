@@ -17,7 +17,7 @@ We recommend that if you have a Google account, you sign into that before comple
 
 #### Explanation of Google form fields, including definitions and instructions.
 
-![](https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-31 at 3.21.14 PM.png)
+![](https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-31 at 3.25.04 PM.png)
 ![](https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-23 at 2.54.56 PM.png)
 ![](https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-23 at 2.55.12 PM.png)
 ![](https://bdezray.github.io/Geode-Curate-A-Thon/images/Screen Shot 2022-10-23 at 2.55.33 PM.png)
