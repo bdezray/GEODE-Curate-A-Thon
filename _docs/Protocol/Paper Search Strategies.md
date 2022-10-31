@@ -9,7 +9,7 @@ Review the sections below to learn about search strategies that may be useful to
 Some papers will be behind a paywall (meaning you have to pay to access it). Because of this, we highly recommend that you perform this search from a network on your campus (or using a campus VPN), as you will be able to benefit from your campus library subscriptions to get past journal paywalls. Additionally, we encourage you to download the [Open Access Button](https://openaccessbutton.org) and install it in your favorite browser. The Open Access Button allows you to search thousands of sources to link you to free, legal, full text articles.
 
 ### Searching by BioProject title
-[Google Scholar](https://scholar.google.com/) is a great place to begin your paper search. Search the associated title of the BioProject (listed in the **project_title_bioprj** in the Google form) and see if you can find anything. Sample instructions are below:
+[Google Scholar](https://scholar.google.com/) is a great place to begin your paper search. Search the associated title of the BioProject (listed in the **project_title_bioprj** in the Google form) and see if you can find anything. Access a [Video Tutorial](https://psu.mediaspace.kaltura.com/media/GEODE+Curate-A-ThonA+Searching+by+BioProject+Title/1_4hpfoo5l) walking you through the searching by BioProject title search strategy and/or see sample instructions are below:
 
 1.Copy/paste the title of the BioProject (listed in the **project_title_bioprj** field in the Google form) into Google Scholar and search. You do not need to add quotation marks around the title.
 
@@ -40,7 +40,7 @@ Some papers will be behind a paywall (meaning you have to pay to access it). Bec
 
 ### Searching by BioProject ID
 
-Search [Google Scholar](https://scholar.google.com/) for the associated BioProject ID (listed in the title of the BioProject (listed in the **project_acc_bioprj** in the Google form) and see if you can find anything. Sample instructions are below:
+Search [Google Scholar](https://scholar.google.com/) for the associated BioProject ID (listed in the title of the BioProject (listed in the **project_acc_bioprj** in the Google form) and see if you can find anything. Access a [Video Tutorial](https://psu.mediaspace.kaltura.com/media/GEODE+Curate-A-ThonA+Searching+by+BioProject+ID/1_at09s3u9) walking you through the searching by BioProject ID search strategy and/or see sample instructions are below:
 
 1.Copy/paste the BioProject ID (listed in the **project_acc_bioprj** field in the Google form) into Google Scholar and search.
 
