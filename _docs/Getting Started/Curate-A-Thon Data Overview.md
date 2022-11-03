@@ -14,11 +14,11 @@ To best be prepared to work with this data, it is important to understand a few 
 
 The first level of structure is the BioProject.
 
-  **BioProject:** a collection of biological data for a single initiative, originating from a single organization or from a consortium. This is the umbrella under which all sample information and sequence data files are submitted and thus provides users a single place to find links to the diverse data generated for that project and deposited into the archival databases maintained by members of the INSDC. Often, the BioProject includes information about: data type, sample scope, organism or common taxonomic branch (e.g., primates), BioProject release date, and potentially research grant information as well as Biosample and publication information.
+  **BioProject (dataset of genetic sequences):** a collection of biological data for a single initiative, originating from a single organization or from a consortium. This is the umbrella under which all sample information and sequence data files are submitted and thus provides users a single place to find links to the diverse data generated for that project and deposited into the archival databases maintained by members of the INSDC. Often, the BioProject includes information about: data type, sample scope, organism or common taxonomic branch (e.g., primates), BioProject release date, and potentially research grant information as well as Biosample and publication information.
     **BioProject Accession Number Format: PRJNAxxxxxx (e.g., PRJNA526235)**
 
 This is followed by the next level of structure, the BioSample.
-  **BioSample:** includes descriptive information about the physical biological specimen from which the experimental data are derived. Some examples include a BioSample from a cell line, tissue biopsy, or an environmental isolate.
+  **BioSample (individual sample in the dataset of genetic sequences/BioProject):** includes descriptive information about the physical biological specimen from which the experimental data are derived. Some examples include a BioSample from a cell line, tissue biopsy, or an environmental isolate.
     **BioSample Accession Number Format: SAMNxxxxxxxx (e.g., SAMN11091118)**
 
 [Next](https://bdezray.github.io/Geode-Curate-A-Thon/Protocol/Curate-A-Thon_Overview/){: .btn}
