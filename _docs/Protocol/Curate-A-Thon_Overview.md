@@ -21,7 +21,7 @@ INSDC houses lots of genomic/genetic sequences from a breadth of sample types su
 Therefore, we need you to:
  - Search and find published papers associated with assigned BioProjects
  - Determine the relevance of BioProjects for this Curate-A-Thon
- - Discover missing metadata by reviewing content in located associated,   published scientific papers
+ - Discover missing metadata by reviewing content in located published scientific papers
 
 > **Instructions:**
 
