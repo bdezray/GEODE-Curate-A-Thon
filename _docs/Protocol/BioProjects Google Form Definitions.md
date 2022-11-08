@@ -21,7 +21,7 @@ We recommend that if you have a Google account, you sign into that before comple
 ![](https://bdezray.github.io/Geode-Curate-A-Thon/images/BioProjectGoogleForm_2.png)
 ![](https://bdezray.github.io/Geode-Curate-A-Thon/images/BioProjectGoogleForm_3.png)
 ![](https://bdezray.github.io/Geode-Curate-A-Thon/images/BioProjectGoogleForm_4.png)
-![](https://bdezray.github.io/Geode-Curate-A-Thon/images/BioProjectGoogleForm_5.png)
+![](https://bdezray.github.io/Geode-Curate-A-Thon/images/BioProjectGooleForm_5.png)
 
 
 [Next](https://bdezray.github.io/Geode-Curate-A-Thon/Protocol/Frequently%20Asked%20Questions%20(FAQ)/){: .btn}
