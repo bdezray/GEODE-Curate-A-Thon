@@ -4,6 +4,34 @@ category: Protocol
 order: 5
 ---
 
+### Associated published paper discovery
+
+**Q: How can I confirm that I have found the correct associated published paper?**
+
+Here are some tips and tricks for checking that the paper you have found during your paper search is the correct paper to be associated with the BioProject.
+
+You have likely found the correct paper if:
+
+1. An associated accession number with the BioProject is listed in the paper.
+
+To see all related accession numbers and detailed information about the BioProject submission, we recommend you visit [](https://www.ncbi.nlm.nih.gov).
+
+![](https://bdezray.github.io/Geode-Curate-A-Thon/images/NCBIHomepage.png)
+
+Next, select what you will be searching on by navigating to BioProject in the drop down menu denoted by the red arrow in the image below and add your BioProject accession number to the search denoted by the red circle in the image below.
+
+![](https://bdezray.github.io/Geode-Curate-A-Thon/images/NCBISearch.png)
+
+Once you click search, you should be brought to the BioProject homepage which includes additional metadata about the BioProject as well as information about SRA experiments and BioSamples.
+
+![](https://bdezray.github.io/Geode-Curate-A-Thon/images/NCBIBioProject.png)
+
+In the paper, the accession numbers are commonly found in the data availability section or methods section of the paper. It will be worthwhile to check the methods to confirm that the genetic/genomic sequencing was conducted by the research described in the article and to see if the samples were collected by the same project or were being reused from another study.
+
+2. The title of the BioProject matches the title of the paper.
+
+3. The deposit year of the BioProject as well as authors match those of the paper. 
+
 ### Relevance
 
 **Q: How should we handle plant grafts and clonal populations that were taken from the wild?**
