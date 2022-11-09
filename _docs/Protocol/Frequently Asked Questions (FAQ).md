@@ -12,7 +12,7 @@ Here are some tips and tricks for checking that the paper you have found during 
 
 You have likely found the correct paper if:
 
-1. An associated accession number with the BioProject is listed in the paper.
+- An associated accession number with the BioProject is listed in the paper.
 
 To see all related accession numbers and detailed information about the BioProject submission, we recommend you visit [](https://www.ncbi.nlm.nih.gov).
 
@@ -28,9 +28,9 @@ Once you click search, you should be brought to the BioProject homepage which in
 
 In the paper, the accession numbers are commonly found in the data availability section or methods section of the paper. It will be worthwhile to check the methods to confirm that the genetic/genomic sequencing was conducted by the research described in the article and to see if the samples were collected by the same project or were being reused from another study.
 
-2. The title of the BioProject matches the title of the paper.
+- The title of the BioProject matches the title of the paper.
 
-3. The deposit year of the BioProject as well as authors match those of the paper. 
+- The deposit year of the BioProject as well as authors match those of the paper.
 
 ### Relevance
 
