@@ -14,7 +14,7 @@ You have likely found the correct paper if:
 
 - An associated accession number with the BioProject is listed in the paper.
 
-To see all related accession numbers and detailed information about the BioProject submission, we recommend you visit [](https://www.ncbi.nlm.nih.gov).
+To see all related accession numbers and detailed information about the BioProject submission, we recommend you visit [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov).
 
 ![](https://bdezray.github.io/Geode-Curate-A-Thon/images/NCBIHomepage.png)
 
