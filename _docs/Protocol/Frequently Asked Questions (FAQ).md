@@ -30,7 +30,16 @@ In the paper, the accession numbers are commonly found in the data availability 
 
 - The title of the BioProject matches the title of the paper.
 
-- The deposit year of the BioProject as well as authors match those of the paper.
+- The deposit year of the BioProject, the authors/authors' affiliation, and/or the study species match those of the paper.
+
+You can check these fields by referencing the following Google Form fields when looking through papers.
+
+Limit your search by the publication date of the BioProject. This information can be found in the **registration_date_bioprj** field of your Google form. Note that the published article may have been published before or after the BioProject.
+
+ The authors or authors' affiliation is listed in the **contact name sra all** field of the Google form. Looking at an article you will see authors listed often with numbers next to their name referring to their below listed affiliation.
+
+You can find the study species in the **Species all** field of the Google Form. Look through the article to see if the same species are listed as being studied.
+
 
 ### Relevance
 
