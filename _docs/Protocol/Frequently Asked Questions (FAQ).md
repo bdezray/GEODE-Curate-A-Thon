@@ -40,6 +40,10 @@ Limit your search by the publication date of the BioProject. This information ca
 
 You can find the study species in the **Species all** field of the Google Form. Look through the article to see if the same species are listed as being studied.
 
+**Q: When should I select false for the paper availability?**
+You should only select false for paper availability once you have exhausted all potential search strategies, including searching by title, by BioProject accession number, by a combination of title, year, study species, and author information filtering, etc. Thus, false will be used when you have exhausted all searches and still cannot either limit it to a likely single associated published paper or can't find any published paper at all.
+
+
 
 ### Relevance
 
