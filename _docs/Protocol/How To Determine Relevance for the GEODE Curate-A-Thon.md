@@ -15,4 +15,4 @@ To determine relevance, you will first need to locate the associated published p
 - If a BioProject is **not relevant**, you will complete and submit the associated Google Form and move onto the next BioProject.
 
 
-[Next](https://bdezray.github.io/Geode-Curate-A-Thon/Protocol/BioProjects%20Google%20Form/){: .btn}
+[Next](https://bdezray.github.io/Geode-Curate-A-Thon/Protocol/BioProjects%20Google%20Form%20Definitions/){: .btn}
